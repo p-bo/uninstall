@@ -10,206 +10,203 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-05 13:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kaya Zeren <kayazeren@gmail.com>, 2017\n"
-"Language-Team: Turkish (Turkey) (https://www.transifex.com/teclib/teams/28042/tr_TR/)\n"
+"Last-Translator: 李赋 <fu792659@163.com>, 2018\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/teclib/teams/28042/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr_TR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: setup.php:103 inc/uninstall.class.php:38
 msgid "Item's uninstallation"
-msgstr "Ögenin kaldırılması"
+msgstr "项目卸载"
 
 #: front/action.php:55 inc/replace.class.php:466
 msgid "Replacement successful"
-msgstr "Değiştirildi"
+msgstr "置换成功"
 
 #: front/action.php:96 inc/uninstall.class.php:320
 msgid "Uninstallation successful"
-msgstr "Kaldırıldı"
+msgstr "卸载成功"
 
 #: ajax/locations.php:43 inc/preference.class.php:74 inc/replace.class.php:579
 msgid "Keep previous location"
-msgstr "Önceki konum korunsun"
+msgstr "保留以前的位置"
 
 #: ajax/locations.php:44 inc/preference.class.php:75 inc/replace.class.php:583
 msgid "Empty location"
-msgstr "Boş konum"
+msgstr "空位"
 
 #: inc/model.class.php:42
 msgid "Uninstallation template"
 msgid_plural "Uninstallation templates"
 msgstr[0] ""
-msgstr[1] ""
 
 #: inc/model.class.php:111 inc/model.class.php:991 inc/model.class.php:1033
 msgid "Uninstallation"
-msgstr "Kaldırma"
+msgstr "卸载"
 
 #: inc/model.class.php:113 inc/model.class.php:993 inc/model.class.php:1035
 #: inc/replace.class.php:61 inc/replace.class.php:108
 msgid "Replacement"
-msgstr "Değişiklik"
+msgstr "替代"
 
 #: inc/model.class.php:123
 msgid "PDF Archiving"
-msgstr "PDF Arşivleme"
+msgstr "PDF存档"
 
 #: inc/model.class.php:125
 msgid "CSV Archiving"
-msgstr "CSV Arşivleme"
+msgstr "CSV存档"
 
 #: inc/model.class.php:128
 msgid "Purge"
-msgstr "Boşalt"
+msgstr "清除"
 
 #: inc/model.class.php:129
 msgid "Delete + Comment"
-msgstr "Sil ve Yorum Yaz"
+msgstr "删除+评论"
 
 #: inc/model.class.php:130
 msgid "Keep + Comment"
-msgstr "Koru ve Yorum Yaz"
+msgstr "保留+评论"
 
 #: inc/model.class.php:171
 msgid "Replacing data"
-msgstr "Veri değiştiriliyor"
+msgstr "替换数据"
 
 #: inc/model.class.php:215 inc/model.class.php:834
 msgid "Type of template"
-msgstr "Kalıp türü"
+msgstr "模板类型"
 
 #: inc/model.class.php:224 inc/model.class.php:798
 msgid "Transfer's model to use"
-msgstr "Kullanılacak aktarım modeli"
+msgstr "使用转移的模型"
 
 #: inc/model.class.php:244 inc/replace.class.php:593
 msgid "New status of the computer"
-msgstr "Bilgisayarın yeni durumu"
+msgstr "计算机的新状态"
 
 #: inc/model.class.php:256 inc/model.class.php:844
 msgid "Action on group"
-msgstr "Gruba uygulanacak işlem"
+msgstr "作用于群组"
 
 #: inc/model.class.php:268
 msgid "New group"
-msgstr "Yeni grup"
+msgstr "新群组"
 
 #: inc/model.class.php:289
 msgid "Add template"
-msgstr "Kalıp ekle"
+msgstr "添加模板"
 
 #: inc/model.class.php:292
 msgid "Manage templates"
-msgstr "Kalıp yönetimi"
+msgstr "管理模板"
 
 #: inc/model.class.php:303
 msgid "Erase datas"
-msgstr "Verileri sil"
+msgstr "擦除数据"
 
 #: inc/model.class.php:306 inc/model.class.php:706
 msgid "Delete software history (computers)"
-msgstr "Yazılım geçmişini sil (bilgisayarlar)"
+msgstr "删除软件历史（计算机）"
 
 #: inc/model.class.php:311 inc/model.class.php:864
 msgid "Delete the whole history"
-msgstr "Tüm geçmişi sil"
+msgstr "删除所有历史记录"
 
 #: inc/model.class.php:393 inc/model.class.php:443
 msgid "Informations replacement"
-msgstr "Bilgi değişikliği"
+msgstr "信息替换"
 
 #: inc/model.class.php:394 inc/replace.class.php:539
 msgid "General informations"
-msgstr "Genel bilgiler"
+msgstr "一般信息"
 
 #: inc/model.class.php:416 inc/replace.class.php:554
 msgid "Overwrite informations (from old item to the new)"
-msgstr "Üzerine yazılacak bilgiler (eski ögeden yeniye)"
+msgstr "覆盖信息（从旧项目到新项目）"
 
 #: inc/model.class.php:423 inc/model.class.php:854 inc/replace.class.php:557
 msgid "Archiving method of the old material"
-msgstr "Eski materyali arşivleme yöntemi"
+msgstr "历史档案的存档方法"
 
 #: inc/model.class.php:433
 msgid "Plugin PDF is installed and activated"
-msgstr "PDF uygulama eki kuruldu ve etkinleştirildi"
+msgstr "插件PDF已安装并激活"
 
 #: inc/model.class.php:436
 msgid ""
 "Plugin PDF is not installed, you won't be able to use PDF format for "
 "archiving"
-msgstr "PDF uygulama eki kurulmamış, arşivleme için PDF biçimi kullanılamaz"
+msgstr "未安装插件PDF，您将无法使用PDF格式进行存档"
 
 #: inc/model.class.php:444 inc/replace.class.php:615
 msgid "Connections with other materials"
-msgstr "Diğer materyaller ile bağlantılar"
+msgstr "用其他材料连接"
 
 #: inc/model.class.php:518 inc/replace.class.php:650
 msgid "Direct connections"
-msgstr "Doğrudan bağlantılar"
+msgstr "直接连接"
 
 #: inc/model.class.php:591
 msgid "OCSNG link"
 msgid_plural "OCSNG links"
-msgstr[0] "OCSNG bağlantısı"
-msgstr[1] "OCSNG bağlantısı"
+msgstr[0] "OCSNG链接"
 
 #: inc/model.class.php:593
 msgid "These options only apply to computers coming from OCSNG"
-msgstr ""
-"Bu ayarlar yalnız bilgileri OCSNG üzerinden alınan bilgisayarlara uygulanır"
+msgstr "这些选项仅适用于来自OCSNG的计算机"
 
 #: inc/model.class.php:597 inc/model.class.php:817
 msgid "Delete computer in OCSNG"
-msgstr "OCSNG üzerinden bilgisayar sil"
+msgstr "在OCSNG中删除计算机"
 
 #: inc/model.class.php:603 inc/model.class.php:825
 msgid "Delete link with computer in OCSNG"
-msgstr "OCSNG üzerinden bilgisayar bağlantısını sil"
+msgstr "在OCSNG中删除与计算机的链接"
 
 #: inc/model.class.php:617
 msgid "Delete computer in FusionInventory"
-msgstr "FusionInventory üzerinden bilgisayar sil"
+msgstr "在FusionInventory中删除计算机"
 
 #: inc/model.class.php:629
 msgid "Additionnal fields"
-msgstr "Ek alanlar"
+msgstr "附加字段"
 
 #: inc/model.class.php:633
 msgid "Delete Fields plugin informations"
-msgstr "Alanlar uygulama eki bilgilerini sil"
+msgstr "删除字段插件信息"
 
 #: inc/model.class.php:998 inc/uninstall.class.php:728
 msgid "Keep in the current group"
-msgstr "Geçerli grupta tut"
+msgstr "保持在当前组中"
 
 #: inc/uninstall.class.php:110 inc/uninstall.class.php:781
 #: inc/config.class.php:39 hook.php:50
 msgid "Uninstall"
-msgstr "Kaldır"
+msgstr "卸载"
 
 #: inc/uninstall.class.php:114
 msgid "Please wait, uninstallation is running..."
-msgstr "Lütfen bekleyin kaldırma işlemi sürüyor..."
+msgstr "请稍等，卸载正在运行..."
 
 #: inc/uninstall.class.php:522
 msgid "Item is now uninstalled"
-msgstr "Öge kaldırıldı"
+msgstr "现在已卸载项目"
 
 #: inc/uninstall.class.php:526
 msgid "Item replaced by a new one"
-msgstr "Yenisi ile değiştirilen öge"
+msgstr "项目由新项目替换"
 
 #: inc/uninstall.class.php:530
 msgid "Item replacing an old one"
-msgstr "Eskinin yerine konulan öge"
+msgstr "项目替换旧项目"
 
 #: inc/uninstall.class.php:535
 msgid "Removed from OCSNG with ID"
-msgstr "OCSNG üzerinden kod ile kaldırıldı"
+msgstr "已从带有ID的OCSNG中删除"
 
 #: inc/uninstall.class.php:629
 msgid "Apply model"
@@ -221,11 +218,11 @@ msgstr ""
 
 #: inc/uninstall.class.php:729
 msgid "Affect to a new group"
-msgstr "Yeni bir gruba etki"
+msgstr "对新组的影响"
 
 #: inc/preference.class.php:54
 msgid "Item's location after uninstall"
-msgstr "Kaldırma sonrası öge konumu"
+msgstr "卸载后项目的位置"
 
 #: inc/config.class.php:84
 msgid "Shortcuts"
@@ -241,52 +238,52 @@ msgstr ""
 
 #: inc/replace.class.php:40
 msgid "Item's replacement"
-msgstr "Ögenin değişikilği"
+msgstr "替代项目"
 
 #: inc/replace.class.php:65
 msgid "Please wait, replacement is running..."
-msgstr "Lütfen bekleyin, değişiklik yapılıyor..."
+msgstr "请稍等，更换正在运行..."
 
 #: inc/replace.class.php:130
 msgid "This document is the archive of this replaced item"
-msgstr "Bu belge, bu değiştirilmiş ögenin arşividir"
+msgstr "此文档是此替换项目的存档"
 
 #: inc/replace.class.php:135
 msgid "Archive of old material"
-msgstr "Eski materyalin arşivi"
+msgstr "历史档案"
 
 #: inc/replace.class.php:409
 msgid "See attached document"
-msgstr "Ekli belgeye bakın"
+msgstr "见附件"
 
 #: inc/replace.class.php:488
 msgid "This item is a replacement for item"
-msgstr "Bu öge şu ögenin yerine değiştirildi"
+msgstr "此项目是项目的替代品"
 
 #: inc/replace.class.php:490
 msgid "This item was replaced by"
-msgstr "Bu öge şu kişi tarafından değiştirildi"
+msgstr "这个项目被替换为"
 
 #: inc/replace.class.php:538 inc/replace.class.php:614
 msgid "Reminder of the replacement model"
-msgstr "Değişiklik modeli anımsatıcı"
+msgstr "提醒更换型号"
 
 #: inc/replace.class.php:576
 msgid "New location of item"
-msgstr "Ögenin yeni konumu"
+msgstr "项目的新位置"
 
 #: inc/replace.class.php:661
 msgid "Choices for item to replace"
-msgstr "Değiştirilecek öge için seçenekler"
+msgstr "选择要替换的项目"
 
 #: inc/replace.class.php:664
 msgid "Old item"
-msgstr "Eski öge"
+msgstr "旧项目"
 
 #: inc/replace.class.php:674
 msgid "New item"
-msgstr "Yeni öge"
+msgstr "新项目"
 
 #: inc/replace.class.php:706
 msgid "Replace"
-msgstr "Değiştir"
+msgstr "替代"
